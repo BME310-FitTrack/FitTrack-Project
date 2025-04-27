@@ -23,6 +23,15 @@
 
 - 3.2 Kullanıcı akışı planlaması → Eylül
 
+### 3.2 Kullanıcı Akışı Planı
+
+1. Kullanıcı uygulamaya giriş yapar.
+2. Ana sayfada günlük özet verileri (kalori, egzersiz durumu) gösterilir.
+3. Menüden “Egzersiz” sekmesine tıklayarak yeni bir antrenman programı oluşturur.
+4. Menüden “Diyet” sekmesine geçip öğünlerini ve kalori değerlerini girer.
+5. “İstatistikler” sekmesinde grafiklerle gelişim izler.
+6. Gerekirse antrenör veya diyetisyenle paylaşım yapar.
+
 ## 4. Geliştirme
 - 4.1 Backend geliştirme → Kaan
 - 4.2 Veritabanı tasarımı → Nil
