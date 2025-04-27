@@ -18,6 +18,14 @@ Proje çevik (agile) yöntemle yürütülecek, görevler haftalık sprintlere b�
 | GitHub erişim problemi                | Orta         | Google Drive yedeği almak              |
 | Ekip üyelerinin zaman sıkıntısı       | Yüksek       | Görevleri zamanında bölüştürmek        |
 | Teknik bilgi eksikliği                | Orta         | ChatGPT, YouTube gibi kaynakları kullanmak |
+
 ## 4. Gerekli Beceriler
+| Beceri                 | Seviye     | Kimde var?     |
+|------------------------|------------|----------------|
+| GitHub kullanımı       | Orta       | Kaan, Nil      |
+| Markdown yazımı        | Orta       | Kaan, Nil      |
+| UI/UX tasarımı         | Başlangıç  | Duru, Eylül    |
+| Mobil uygulama bilgisi | Başlangıç  | Nisa, Kaan     |
+
 ## 5. Kullanılacak Araçlar
 ## 6. İlerleme Takibi
