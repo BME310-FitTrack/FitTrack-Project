@@ -1,13 +1,11 @@
-# FitTrack – Proje Amacı
+# Proje Amacı – FitTrack
 
-Bu proje, sporcuların günlük egzersizlerini ve diyet planlarını kolayca takip edebilecekleri kullanıcı dostu bir uygulama geliştirmeyi amaçlamaktadır.
+FitTrack projesi, sporcuların ve sağlıklı yaşam hedefi olan bireylerin egzersiz ve diyet planlarını tek bir platform üzerinden yönetmelerini sağlamak amacıyla geliştirilmiştir.
 
-Uygulama ile kullanıcılar:
+Bu uygulama sayesinde kullanıcılar;
+- Günlük egzersiz programlarını oluşturabilir,
+- Antrenman ilerlemelerini kaydedebilir,
+- Kalori ve makro besin alımını takip edebilir,
+- Hedeflerine göre grafiksel geri bildirim alabilir.
 
-- Günlük egzersiz planlarını oluşturabilecek,
-- Yaptıkları antrenmanları işleyebilecek,
-- Kalori ve makro besin takibi yapabilecek,
-- Diyetisyen veya antrenör ile veri paylaşımı yapabilecek,
-- Kendi ilerlemelerini grafiklerle görebilecektir.
-
-Proje, yazılım geliştirme süreci boyunca çevik (agile) yöntemler ile yürütülecektir.
+Uygulama hem bireysel kullanım hem de profesyonel diyetisyen/antrenör desteğiyle senkronize kullanım için tasarlanacaktır.
