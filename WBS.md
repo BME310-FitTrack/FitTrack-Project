@@ -11,6 +11,7 @@
 
 ## 3. Tasarım
 - 3.1 Uygulama arayüz tasarımı (UI) → Duru
+- 3.2 Kullanıcı akışı planlaması → Eylül
 
 ### 3.1 UI Tasarımı Planı
 
@@ -21,7 +22,7 @@
 - Renk paleti: Açık tema, sade tasarım
 - Kullanıcı dostu arayüz: Basit gezinme, ikonlarla desteklenmiş menüler
 
-- 3.2 Kullanıcı akışı planlaması → Eylül
+
 
 ### 3.2 Kullanıcı Akışı Planı
 
