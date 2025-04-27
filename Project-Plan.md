@@ -1,7 +1,17 @@
 # FitTrack – Proje Planı
 
 ## 1. Proje Yaklaşımı
+Proje çevik (agile) yöntemle yürütülecek, görevler haftalık sprintlere bölünecektir. Planlama, geliştirme ve test aşamaları döngüsel olarak tekrarlanacaktır.
+
 ## 2. Zaman Planı
+| Aşama                | Tarih Aralığı         | Sorumlu |
+|----------------------|-----------------------|---------|
+| Proje Planlaması     | 22 Nisan - 26 Nisan   | Nil     |
+| Tasarım              | 27 Nisan - 3 Mayıs    | Duru, Eylül |
+| Geliştirme           | 4 Mayıs - 17 Mayıs    | Kaan, Nisa, Nil |
+| Test ve Düzeltmeler  | 18 Mayıs - 24 Mayıs   | Duru, Eylül |
+| Final Sunum & Rapor  | 25 Mayıs - 31 Mayıs   | Tüm ekip |
+
 ## 3. Riskler ve Önlemler
 | Risk                                  | Etki         | Önlem                                  |
 |---------------------------------------|--------------|-----------------------------------------|
