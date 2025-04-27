@@ -28,5 +28,16 @@ Proje çevik (agile) yöntemle yürütülecek, görevler haftalık sprintlere b�
 | Mobil uygulama bilgisi | Başlangıç  | Nisa, Kaan     |
 
 ## 5. Kullanılacak Araçlar
+
+| Araç / Platform       | Kullanım Amacı                                    |
+|------------------------|---------------------------------------------------|
+| GitHub                | Versiyon kontrolü, görev yönetimi (Issues)        |
+| Git                   | Yerel dosya takibi ve senkronizasyon              |
+| Markdown              | Dokümantasyon oluşturma                           |
+| Visual Studio Code    | Dosya düzenleme ve kod yazımı                     |
+| ChatGPT               | İçerik üretimi, planlama ve teknik yardım         |
+| Canva                 | UI tasarım fikri görselleştirme (isteğe bağlı)   |
+| Google Docs/Drive     | Yedekleme ve alternatif belge paylaşımı (gerektiğinde) |
+
 ## 6. İlerleme Takibi
 Her görev için GitHub Issues üzerinden takip yapılacak. Görevler tamamlandıkça commit mesajlarında #IssueNo referansı kullanılacak.
