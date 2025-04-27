@@ -11,6 +11,16 @@
 
 ## 3. Tasarım
 - 3.1 Uygulama arayüz tasarımı (UI) → Duru
+
+### 3.1 UI Tasarımı Planı
+
+- Ana sayfa: Kullanıcının günlük özet bilgileri (kalori, egzersiz durumu)
+- Egzersiz ekranı: Egzersiz listesi, program oluşturma
+- Diyet ekranı: Öğün takibi, kalori sayacı
+- İstatistikler: Grafiklerle gelişim izleme
+- Renk paleti: Açık tema, sade tasarım
+- Kullanıcı dostu arayüz: Basit gezinme, ikonlarla desteklenmiş menüler
+
 - 3.2 Kullanıcı akışı planlaması → Eylül
 
 ## 4. Geliştirme
