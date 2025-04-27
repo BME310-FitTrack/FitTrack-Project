@@ -29,3 +29,4 @@ Proje çevik (agile) yöntemle yürütülecek, görevler haftalık sprintlere b�
 
 ## 5. Kullanılacak Araçlar
 ## 6. İlerleme Takibi
+Her görev için GitHub Issues üzerinden takip yapılacak. Görevler tamamlandıkça commit mesajlarında #IssueNo referansı kullanılacak.
